@@ -1,5 +1,8 @@
 ### Hi there 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shogoazgy&theme=vue)
+## [solarized_dark](./solarized_dark/README.md)
+[![](https://raw.githubusercontent.com/shogoazgy/shogoazgy/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shogoazgy/shogoazgy/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shogoazgy/shogoazgy/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shogoazgy/shogoazgy/main/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shogoazgy/shogoazgy/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **shogoazgy/shogoazgy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
